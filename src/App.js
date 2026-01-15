@@ -1,5 +1,15 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, X, ChevronRight, ChevronDown, Phone, Mail, MapPin, Facebook, Instagram, ShoppingBag, Coffee, Flower, Scissors, Shield, Clock, ArrowLeft, MessageCircle, Send, Star, Heart, Gift, Package, Award, Sparkles, Croissant, Wifi, Sofa, Truck, Camera, Lock, Bell, Monitor, Home, Tag, Percent } from 'lucide-react';
+// import { Menu, X, ChevronRight, ChevronDown, Phone, Mail, MapPin, Facebook, Instagram, ShoppingBag, Coffee, Flower, Scissors, Shield, Clock, ArrowLeft, MessageCircle, Send, Star, Heart, Gift, Package, Award, Sparkles, Croissant, Wifi, Sofa, Truck, Camera, Lock, Bell, Monitor, Home, Tag, Percent } from 'lucide-react';
+import {
+  Menu, X, ChevronRight, ChevronDown,
+  Phone, Mail, MapPin, Facebook, Instagram,
+  ShoppingBag, Coffee, Flower, Scissors,
+  Shield, Clock, MessageCircle, Send,
+  Star, Heart, Gift, Award, Sparkles,
+  Croissant, Wifi, Sofa, Truck,
+  Camera, Lock, Bell, Monitor,
+  Home, Tag, Percent
+} from 'lucide-react';
 
 // Logo import - will work in your React project (comment out for artifact preview)
 import logo from './blooming-butterflies-logo.png';
@@ -29,7 +39,7 @@ const BloomingButterfliesWebsite = () => {
   );
 }; 
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [scrolled, setScrolled] = useState(false);
+ // const [scrolled, setScrolled] = useState(false);
   const [currentPage, setCurrentPage] = useState('home');
   const [isChatOpen, setIsChatOpen] = useState(false);
   const [isServicesDropdownOpen, setIsServicesDropdownOpen] = useState(false);
