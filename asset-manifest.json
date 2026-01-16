@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Blossam-butterflies-DemoV2/static/css/main.e3fdbd1e.css",
+    "main.js": "/Blossam-butterflies-DemoV2/static/js/main.f57d3ff9.js",
+    "static/js/453.c792822b.chunk.js": "/Blossam-butterflies-DemoV2/static/js/453.c792822b.chunk.js",
+    "static/media/blooming-butterflies-logo.png": "/Blossam-butterflies-DemoV2/static/media/blooming-butterflies-logo.f889b25b0d4123dc9bfe.png",
+    "index.html": "/Blossam-butterflies-DemoV2/index.html",
+    "main.e3fdbd1e.css.map": "/Blossam-butterflies-DemoV2/static/css/main.e3fdbd1e.css.map",
+    "main.f57d3ff9.js.map": "/Blossam-butterflies-DemoV2/static/js/main.f57d3ff9.js.map",
+    "453.c792822b.chunk.js.map": "/Blossam-butterflies-DemoV2/static/js/453.c792822b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3fdbd1e.css",
+    "static/js/main.f57d3ff9.js"
+  ]
+}
